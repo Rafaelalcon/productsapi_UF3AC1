@@ -1,0 +1,5 @@
+IP: 79.152.68.232 
+nombreusuario: rafaelalcon
+contraseña: 5L1gWRAberwSVDpf
+eTMEzhQX4BetosvU
+mongodb+srv://rafaelalcon:<5L1gWRAberwSVDpf>@products.psdwwve.mongodb.net/?retryWrites=true&w=majority&appName=products

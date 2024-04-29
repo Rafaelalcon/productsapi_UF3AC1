@@ -20,6 +20,7 @@ const createUser = ((req, res) => {
     })
     .catch((error)=>{
       res.json("Error when registering user");
+      console.log(error)
     })
     .finally(()=>{
       //
