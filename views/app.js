@@ -1,6 +1,5 @@
 const express = require('express')
 const products_routes = require('./routes/products.js')
-
 //Server instantiation
 const app = express()
 
